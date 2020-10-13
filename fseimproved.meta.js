@@ -11,6 +11,6 @@
 // @include     /^http(s)?://server.fseconomy.net/.*$/
 // @require     https://code.jquery.com/jquery-3.5.1.min.js
 // @license     private
-// @downloadURL https://github.com/MyNewGroup/fse-scripts/raw/main/fseimproved.user.js
-// @updateURL   https://github.com/MyNewGroup/fse-scripts/raw/main/fseimproved.meta.js
+// @downloadURL https://github.com/MyNewGroup/fse-scripts/raw/master/fseimproved.user.js
+// @updateURL   https://github.com/MyNewGroup/fse-scripts/raw/master/fseimproved.meta.js
 // ==/UserScript==
